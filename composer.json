@@ -1,0 +1,10 @@
+{
+    "name": "yanguodong/test-composer",
+    "authors": [
+        {
+            "name": "yanguodong",
+            "email": "57203942@qq.com"
+        }
+    ],
+    "require": {}
+}
